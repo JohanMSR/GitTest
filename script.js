@@ -1,3 +1,4 @@
-function Pop_Mensaje(id) {
-    console.log(id);
+const x ="";
+function Pop_Mensaje(x) {
+    console.log(x);
   }
