@@ -1,4 +1,3 @@
-function changeMyColor(id) {
-    var Paint = document.getElementById(id);
-    Paint.style.color = 'orange';
+function Pop_Mensaje(id) {
+    console.log(id);
   }
