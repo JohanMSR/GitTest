@@ -4,11 +4,11 @@
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
-    background-color: #151E3F
+    background-color: #17181a
 }
 
 :root{
-    --color: #000102;
+    --color: #000000;
 }
 
 .contenedor{
@@ -31,7 +31,7 @@
 }
 .btn-1{
     overflow: hidden;
-    border: 3px solid #03cc57;
+    border: 3px solid #1900ff;
     z-index: 2;
 }
 
